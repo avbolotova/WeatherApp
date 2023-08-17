@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Main Fragment -->
+    <string name="tv_hours">Hours</string>
+    <string name="tv_days">Days</string>
+</resources>
